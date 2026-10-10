@@ -1,0 +1,6 @@
+{
+  "name": "Bíblia & Louvor",
+  "description": "Quiz Bíblico com 200 perguntas, Palavra do Dia com versículos temáticos, Hinos CCB com busca e áudio, e Fotos de Bom Dia, Boa Tarde, Boa Noite e Durma com Deus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
